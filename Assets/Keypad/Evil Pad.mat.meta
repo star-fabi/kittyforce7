@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Map.meta
+guid: 4fb8dd48822df4b47a74699049b993ac
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+========
 guid: 286cffdfdc15f044799feb6a8034e49a
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
+>>>>>>>> main:Assets/Keypad/Evil Pad.mat.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
