@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 341eeb701de548d43881497b837d1fba
+guid: dc27acaf83dbdbf488059b69f873c9cf
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,56 +108,12 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_0
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 907
-        width: 28
-        height: 106
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25a4fb62053097848984375c940067c5
-      internalID: -826320149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_1
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 907
-        width: 60
-        height: 101
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4dfeed33d52b4f84d847f2203a7af12a
-      internalID: 484615051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ff8bb76ca0c51d54ebff7f97582dee0c
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -166,9 +122,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_0: -826320149
-      png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_1: 484615051
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

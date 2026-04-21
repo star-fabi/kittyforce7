@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 341eeb701de548d43881497b837d1fba
+guid: f2fc8db9ef3f75a45a4de17f736d8ab4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_0
+      name: f68352aa-e658-4af3-b206-2c5e68307615_0
       rect:
         serializedVersion: 2
-        x: 214
-        y: 907
-        width: 28
-        height: 106
+        x: 9
+        y: 201
+        width: 15
+        height: 54
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,30 +125,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25a4fb62053097848984375c940067c5
-      internalID: -826320149
+      spriteID: 8318ddb50da577a42b09a83bec75deee
+      internalID: 1827104988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_1
+      name: f68352aa-e658-4af3-b206-2c5e68307615_1
       rect:
         serializedVersion: 2
-        x: 527
-        y: 907
-        width: 60
-        height: 101
+        x: 171
+        y: 201
+        width: 30
+        height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dfeed33d52b4f84d847f2203a7af12a
-      internalID: 484615051
+      spriteID: e3a0d1197f6abbd4bb664ad2ed30c820
+      internalID: 1874216112
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ff8bb76ca0c51d54ebff7f97582dee0c
+    spriteID: dcae08d85368cbd4e96f315d268244f3
     internalID: 0
     vertices: []
     indices: 
@@ -167,8 +167,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_0: -826320149
-      png-clipart-sprite-animation-2d-computer-graphics-stick-figure-visual-studio-code-sheet-bird-microsoft_1: 484615051
+      f68352aa-e658-4af3-b206-2c5e68307615_0: 1827104988
+      f68352aa-e658-4af3-b206-2c5e68307615_1: 1874216112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
